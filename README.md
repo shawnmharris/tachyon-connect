@@ -1,2 +1,2 @@
 # tachyon-connect
-A cross platform udp abstraction for sending messages under 1500 bytes.
+Cross platform UDP, small MTU abstraction
